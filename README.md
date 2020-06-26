@@ -1,4 +1,8 @@
-# DatecareApp
+
+
+# DATECARE
+
+This is an Angular app which specializes in facilitating access to online services from EPS and IPS entities, to all types of users that require medical appointments, consultations with specialists, surgery quotes and requests from home doctors. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
 
